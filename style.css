@@ -90,3 +90,12 @@ img{
     position: relative;
     margin-right: 200px;
 }
+
+#copyright{
+    font-size: 15px;
+    display: flex;
+    margin-top: 830px;
+    text-align: center;
+    display: center;
+    margin-left: 10px;
+}
